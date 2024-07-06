@@ -43,6 +43,7 @@ To use the bot effectively, follow these steps:
 7. **Terminate or Modify:**
    - To stop the bot, simply close the browser window or stop the JavaScript execution in the console. Modify the code as needed for different scenarios or to enhance functionality based on specific requirements.
 
+![image](https://github.com/selcukeraslan/tribalwarsMarketBot/assets/29748165/1b025b08-7ae2-4fc6-978e-d0e0f73bca91)
 
 
 
