@@ -1,6 +1,6 @@
 Tribal Wars Market Bot
 
-#Description:
+# Description:
 
 This bot automates resource exchange operations in a web interface. It monitors the stock levels of three resources (wood, stone, iron) displayed in a table. If any resource's stock exceeds 200 units, it calculates and inputs 80% of the current stock value into the respective input field for purchasing. After inputting the value, it clicks the submit button associated with each resource.
 
@@ -10,7 +10,7 @@ Additionally, the bot checks for a specific warning message ("Insufficient quant
 
 The bot repeats these actions every 5 seconds to continually monitor and process resource exchange operations as needed.
 
-#How to Use:
+# How to Use:
 
 To use the bot effectively, follow these steps:
 
